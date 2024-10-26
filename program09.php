@@ -1,3 +1,4 @@
+<!-- Write a PHP program to print all prime numbers between 1 and 100 -->
 <?php
     function isPrime($num) {
         if ($num <= 1) return false;

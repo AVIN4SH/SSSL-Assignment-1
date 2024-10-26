@@ -1,3 +1,4 @@
+<!-- Write a PHP program to find the largest of three numbers.  -->
 <?php
     echo "Enter three numbers:\n";
     $a = trim(fgets(STDIN));

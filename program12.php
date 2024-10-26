@@ -1,3 +1,4 @@
+<!-- Write a PHP program to find the largest element in an array. -->
 <?php
     $arr = [];
     echo "Enter 5 elements:\n";

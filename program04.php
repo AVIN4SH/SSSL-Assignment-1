@@ -1,3 +1,4 @@
+<!-- Write a PHP program to calculate the factorial of a number using recursion. -->
 <?php
     function factorial($n) {
         if ($n <= 1) return 1;

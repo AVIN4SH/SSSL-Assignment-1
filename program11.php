@@ -1,3 +1,4 @@
+<!-- Write a PHP program to check if a number is a palindrome.  -->
 <?php
     echo "Enter a number: ";
     $num = trim(fgets(STDIN));

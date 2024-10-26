@@ -1,3 +1,4 @@
+<!-- Write a PHP program to sum all the numbers in an array.  -->
 <?php
     $num = array();
     $sum = 0;

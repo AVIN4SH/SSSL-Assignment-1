@@ -1,3 +1,4 @@
+<!-- Write a PHP program to reverse the elements of an array. -->
 <?php
     $arr = [];
     echo "Enter 5 elements:\n";
